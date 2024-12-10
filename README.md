@@ -1,5 +1,5 @@
 This is a project for Software Architecture Course
-For ME
+For GAF-AI 2025 Conference 
 
 Omar Ayman Eltoohamy
 20023750
