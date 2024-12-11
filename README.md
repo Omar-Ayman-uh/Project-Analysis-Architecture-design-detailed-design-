@@ -12,11 +12,11 @@ Year 2024 - First Semester
 
 Below are the images related to the project:
 
-![Code Demo 1](./code demo 1.jpg)  
+![Code Demo 1](./code demo 1.png)  
 
-![Code Demo 2](./code demo 2.jpg)  
+![Code Demo 2](./code demo 2.png)  
 
-![Code Demo 3](./code demo 3.jpg)  
+![Code Demo 3](./code demo 3.png)  
 
 ![uml_class_diagram](./GAF-UML-ClassDiagram.png)  
 
